@@ -1,1 +1,1 @@
-# pinsk
+# New fantastic application for evryone
